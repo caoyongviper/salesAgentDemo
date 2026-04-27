@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="28" height="28">
+  <defs>
+    <linearGradient id="metalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0f0f0"/>
+      <stop offset="50%" stop-color="#b8b8b8"/>
+      <stop offset="100%" stop-color="#606060"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" fill="none"/>
+  <g transform="scale(0.22) translate(0 60)">
+    <path d="M180 40 C220 10 280 20 320 50 C360 80 350 140 310 180 C270 220 210 210 160 180 C110 150 100 90 140 50 Z" fill="url(#metalGrad)" stroke="#222" stroke-width="6"/>
+    <path d="M80 220 L120 100 C135 85 160 95 180 130 L210 160 L110 250 Z" fill="url(#metalGrad)" stroke="#222" stroke-width="6"/>
+    <rect x="160" y="160" width="80" height="60" rx="6" fill="#ddd" stroke="#222" stroke-width="4"/>
+    <line x1="176" y1="160" x2="176" y2="135" stroke="#222" stroke-width="4"/>
+    <line x1="192" y1="160" x2="192" y2="128" stroke="#222" stroke-width="4"/>
+    <line x1="208" y1="160" x2="208" y2="128" stroke="#222" stroke-width="4"/>
+    <line x1="224" y1="160" x2="224" y2="135" stroke="#222" stroke-width="4"/>
+    <line x1="160" y1="180" x2="135" y2="180" stroke="#222" stroke-width="4"/>
+    <line x1="160" y1="195" x2="135" y2="195" stroke="#222" stroke-width="4"/>
+    <line x1="160" y1="210" x2="135" y2="210" stroke="#222" stroke-width="4"/>
+    <line x1="240" y1="180" x2="265" y2="180" stroke="#222" stroke-width="4"/>
+    <line x1="240" y1="195" x2="265" y2="195" stroke="#222" stroke-width="4"/>
+    <line x1="240" y1="210" x2="265" y2="210" stroke="#222" stroke-width="4"/>
+    <line x1="176" y1="220" x2="176" y2="245" stroke="#222" stroke-width="4"/>
+    <line x1="192" y1="220" x2="186" y2="252" stroke="#222" stroke-width="4"/>
+    <line x1="208" y1="220" x2="214" y2="252" stroke="#222" stroke-width="4"/>
+    <line x1="224" y1="220" x2="224" y2="245" stroke="#222" stroke-width="4"/>
+    <path d="M120 100 L140 70 L160 100" stroke="#222" stroke-width="8" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

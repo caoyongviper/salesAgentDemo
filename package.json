@@ -1,0 +1,15 @@
+{
+  "name": "sales-assistant-demo",
+  "version": "1.0.0",
+  "description": "AI Sales Assistant Demo",
+  "scripts": {
+    "build": "echo 'Build complete!'",
+    "dev": "npx netlify dev"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
